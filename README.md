@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo!
 
-🎓 Web Development student, currently pursuing a Technical Degree in Web Development  
+🎓 Web Developer (Technical Degree in Web Development)
 🚀 Learning new technologies and best practices  
 🌎 Based in Argentina
 
