@@ -19,11 +19,3 @@
 
 - Spanish (Native)
 - English (First Certificate in English, B2)
-
-## 📊 Stats
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romartinez97)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romartinez97)](https://github.com/anuraghazra/github-readme-stats)
