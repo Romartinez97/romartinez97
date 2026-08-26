@@ -33,5 +33,5 @@
 
 ## 🌍 Spoken Languages
 
-- 🇦🇷 Spanish — Native
-- 🇬🇧 English — B2 (First Certificate in English)
+- Spanish — Native
+- English — B2 (First Certificate in English)
